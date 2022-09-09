@@ -1,0 +1,6 @@
+package com.example.AirlineAPI_Lab.repositories;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+
+public interface FlightsRepository extends JpaRepository {
+}
